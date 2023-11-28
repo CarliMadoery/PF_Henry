@@ -1,0 +1,31 @@
+id,value,longitude,latitude,region,capitalCity
+ARG,Argentina,-58.4173,-34.6118,LCN,Buenos Aires
+AUS,Australia,149.129,-35.282,EAS,Canberra
+BOL,Bolivia,-66.1936,-13.9908,LCN,La Paz
+BRA,Brazil,-47.9292,-15.7801,LCN,Brasilia
+CAN,Canada,-75.6919,45.4215,NAC,Ottawa
+CHE,Switzerland,7.44821,46.948,ECS,Bern
+CHL,Chile,-70.6475,-33.475,LCN,Santiago
+CHN,China,116.286,40.0495,EAS,Beijing
+COL,Colombia,-74.082,4.60987,LCN,Bogota
+CUB,Cuba,-82.3667,23.1333,LCN,Havana
+DEU,Germany,13.4115,52.5235,ECS,Berlin
+ESP,Spain,-3.70327,40.4167,ECS,Madrid
+FIN,Finland,24.9525,60.1608,ECS,Helsinki
+FRA,France,2.35097,48.8566,ECS,Paris
+GBR,United Kingdom,-0.126236,51.5002,ECS,London
+IND,India,77.225,28.6353,SAS,New Delhi
+JPN,Japan,139.77,35.67,EAS,Tokyo
+KOR,"Korea, Rep.",126.957,37.5323,EAS,Seoul
+MEX,Mexico,-99.1276,19.427,LCN,Mexico City
+NOR,Norway,10.7387,59.9138,ECS,Oslo
+NZL,New Zealand,174.776,-41.2865,EAS,Wellington
+PER,Peru,-77.0465,-12.0931,LCN,Lima
+PRI,Puerto Rico,-66.0,18.23,LCN,San Juan
+QAT,Qatar,51.5082,25.2948,MEA,Doha
+SGP,Singapore,103.85,1.28941,EAS,Singapore
+SLV,El Salvador,-89.2073,13.7034,LCN,San Salvador
+SYR,Syrian Arab Republic,36.3119,33.5146,MEA,Damascus
+URY,Uruguay,-56.0675,-34.8941,LCN,Montevideo
+USA,United States,-77.032,38.8895,NAC,Washington D.C.
+VEN,"Venezuela, RB",-69.8371,9.08165,LCN,Caracas

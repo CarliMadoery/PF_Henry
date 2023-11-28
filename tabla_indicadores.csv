@@ -1,0 +1,21 @@
+id,value
+GC.XPN.TOTL.GD.ZS,Expense (% of GDP)
+NE.RSB.GNFS.CD,External balance on goods and services (current US$)
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+NY.GDP.PCAP.CD,GDP per capita (current US$)
+NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)"
+SE.XPD.TOTL.GD.ZS,"Government expenditure on education, total (% of GDP)"
+SE.XPD.PRIM.PC.ZS,"Government expenditure per student, primary (% of GDP per capita)"
+SE.ADT.LITR.ZS,"Literacy rate, adult total (% of people ages 15 and above)"
+SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP)
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)"
+SH.DYN.NMRT,"Mortality rate, neonatal (per 1,000 live births)"
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)"
+SN.ITK.DEFC.ZS,Prevalence of undernourishment (% of population)
+IP.PAT.RESD,"Patent applications, residents"
+GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP)
+SP.POP.SCIE.RD.P6,Researchers in R&D (per million people)
+SI.POV.GINI,Gini index
+VC.IHR.PSRC.P5,"Intentional homicides (per 100,000 people)"
+SI.POV.NAHC,Poverty headcount ratio at national poverty lines (% of population)
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)"
